@@ -11,9 +11,9 @@ And if we are going to go to the trouble of doing that, we might as well make it
 
 ## Features
 
-* can be used to holdand lock up bikes
+* can be used to hold and lock up bikes
+* charging station for bike lights and other doodads
 * check availability of rack slots remotely
 * check status of bikes in the slots, i.e., "is my bike still here?"
 * download bike odometer info to track miles biked in our company dashboard
-* charging station for bike lights and other doodads
 
